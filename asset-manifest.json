@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/typescriptQuiz/static/js/main.2cb4094a.chunk.js",
+    "main.js.map": "/typescriptQuiz/static/js/main.2cb4094a.chunk.js.map",
+    "runtime-main.js": "/typescriptQuiz/static/js/runtime-main.1a8ca4b1.js",
+    "runtime-main.js.map": "/typescriptQuiz/static/js/runtime-main.1a8ca4b1.js.map",
+    "static/js/2.3a677544.chunk.js": "/typescriptQuiz/static/js/2.3a677544.chunk.js",
+    "static/js/2.3a677544.chunk.js.map": "/typescriptQuiz/static/js/2.3a677544.chunk.js.map",
+    "index.html": "/typescriptQuiz/index.html",
+    "static/js/2.3a677544.chunk.js.LICENSE.txt": "/typescriptQuiz/static/js/2.3a677544.chunk.js.LICENSE.txt",
+    "static/media/summer.568d41c1.jpg": "/typescriptQuiz/static/media/summer.568d41c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a8ca4b1.js",
+    "static/js/2.3a677544.chunk.js",
+    "static/js/main.2cb4094a.chunk.js"
+  ]
+}
